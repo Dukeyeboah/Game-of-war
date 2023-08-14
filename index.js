@@ -52,8 +52,6 @@ drawCardBtn.addEventListener("click", () => {
 })
 
 /**
- * Challenge:
- * 
  * Display the final winner in the header at the top by
  * replacing the text of the h2.
  */
